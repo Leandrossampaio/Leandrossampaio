@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou **Engenheiro Elétrico**, **Técnico em Eletrônica** e **Técnico em Informática** — uma combinação que me permite transitar entre hardware e software com naturalidade. Tenho paixão por criar soluções que conectam o mundo físico ao digital.
+Sou **Engenheiro Elétrico/Computação**, **Técnico em Eletrônica** e **Técnico em Informática** — uma combinação que me permite transitar entre hardware e software com naturalidade. Tenho paixão por criar soluções que conectam o mundo físico ao digital.
 
 > *"Se eu tivesse seis horas para derrubar uma árvore, passaria as primeiras quatro afiando o machado."* — Abraham Lincoln
 
