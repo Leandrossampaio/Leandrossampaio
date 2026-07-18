@@ -1,6 +1,6 @@
 # Olá, eu sou o Leandro Sampaio 👋
 
-Sou engenheiro de Computação e Elétrica, técnico em Eletrônica e técnico em Informática. Trabalho na interseção entre software, hardware e automação, transformando necessidades práticas em soluções digitais confiáveis — do circuito ao código.
+Sou engenheiro de Computação e Elétrica, com formação técnica em Eletrônica e Informática. Minha atuação une software, hardware e automação para transformar desafios práticos em soluções digitais confiáveis — do circuito ao código.
 
 > *"Se eu tivesse seis horas para derrubar uma árvore, passaria as primeiras quatro afiando o machado."* — Abraham Lincoln
 
